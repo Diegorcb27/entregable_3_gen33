@@ -39,7 +39,7 @@ button{
 }
 
 .img_rick{
-    background-image: url(/src/assets/Rick\ and\ morty.jpeg) ;
+    background-image: url(/Rick\ and\ morty.jpeg) ;
     background-size: cover;
     background-position: center;
     height: 500px;
