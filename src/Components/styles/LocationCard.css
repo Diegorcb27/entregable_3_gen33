@@ -1,0 +1,42 @@
+.Location_container{
+display: flex;
+justify-content: center;
+}
+
+.Location{
+background-color: #072226;
+border-radius: 0.5em;
+padding: 1em;
+max-width: 80%;
+margin-top: 2em;
+margin-bottom: 4em;
+box-shadow: 5px 5px  0.8em #0008;
+}
+
+.Location_title{
+    color: #7DBB24;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.Location_list{
+    display: flex;
+    justify-content: center;
+    gap: 6em;
+    flex-wrap: wrap;
+}
+
+.Location_item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.Location_label{
+    color: #EAEDED;
+}
+
+.Location_value{
+    color: #657071;
+}
